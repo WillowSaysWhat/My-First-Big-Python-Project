@@ -39,6 +39,10 @@ Don't pressure yourself to have perfectly ratioed gears. Just focus on them chan
 
 As this is a console-based project, the direction of travel is depicted by a 12-hour clock. The car starts at 12 and if it turns left it will noavigate a single increment on the clock to 11. If it turns right from 12 it will increment to 1.
 
+<p align="center">
+<img src="/docs/assets/clock.jpg" width="300">
+</p>
+
 ### Console Output Parameters
 
 The text-based output should look similar to this:
@@ -66,9 +70,7 @@ Car is Broken!
 Car is Broken!
 ```
 
-<p align="center">
-<img src="/docs/assets/clock.jpg" width="300">
-</p>
+
 
 
 
@@ -94,16 +96,22 @@ class Car:
 
    def accelerate(self):
        pass
+
    def brake(self):
        pass
+
    def turn_steering_wheel(self, direction_change):
        pass
+
   def change_gear(self, selected_gear = FORWARD):
       pass
+
   def display_stats(self):
       pass
+
   def load_simulation(self, filename):
       pass
+      
   def run_simulation(self):
       pass
 

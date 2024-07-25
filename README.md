@@ -17,9 +17,9 @@ The table below will navigate you to topics that will be covered in the project.
 
 * [Project instructions](docs/instructions.md) 
 * [Global Variables](/docs/globalVariables.md) 
-* [Method: Accelerate]()
-* [Method: Brake]()
-* [Method: Steering]()
+* [Method: Accelerate](/docs/accelerate.md)
+* [Method: Brake](/docs/brake.md)
+* [Method: Steering](/docs/change-direction.md)
 * [Method: Change Gear]()
 * [Method: display stats]()
 * [Method: Load Simulation]()
