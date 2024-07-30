@@ -21,7 +21,7 @@ The table below will navigate you to topics that will be covered in the project.
 * [Method: Brake](/docs/brake.md)
 * [Method: Steering](/docs/change-direction.md)
 * [Method: Change Gear]()
-* [Method: display stats]()
+* [Method: Display stats]()
 * [Method: Load Simulation]()
 * [Method: Run Simulation]()
 * [Name == Main]()
