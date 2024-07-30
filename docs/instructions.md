@@ -14,6 +14,8 @@ The car must follow these principles:
 * `BRAKE` will slow the car down -5
 * `FORWARD` places the car in D or Drive
 * `REVERSE` places the car in R or Reverse
+* `RIGHT` turns the car clockwise
+* `LEFT` turns the car anti-clockwise
 
 ### Braking Parameters
 
@@ -140,4 +142,16 @@ ACCELERATE
 ACCELERATE
 ACCELERATE
 ACCELERATE
+BRAKE
+BRAKE
+BRAKE
+BRAKE
+BRAKE
+BRAKE
+BRAKE
+BRAKE
+BRAKE
+REVERSE
+ACCELERATE
+
 ```
