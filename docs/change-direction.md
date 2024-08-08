@@ -1,7 +1,7 @@
 # Method: Change Direction (LEFT/RIGHT)
 
 This method changes the direction of the car and is portrayed by a clock face.
-if the command dictates a `RIGHT` turn the exectution will be made using the Global Variables and could look something like this `turn_steering_wheel(RIGHT)`.
+If the command dictates a `RIGHT` turn the exectution will be made using the Global Variables and could look something like this `turn_steering_wheel(RIGHT)`.
 Conditionals will need to be used to stop the integer from rising past 12 and sinking below 1.
 
 
